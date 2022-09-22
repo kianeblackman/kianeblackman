@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Kiane 👋
+
+I'm a student on the School of Code bootcamp and am looking very forward to starting a career in code!
 
 <!--
 **kianeblackman/kianeblackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
