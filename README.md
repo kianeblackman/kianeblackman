@@ -1,6 +1,20 @@
-# Hi there, I'm Kiane 👋
+# 👋 Hi there, I'm Kiane 
 
-### I'm a full-stack developer, welcome to my GitHub page!
+### I'm a front-end developer, designer and all round a pretty creative guy. Welcome to my portfolio!
+
+## 🚀 Projects
+
+- [Pizza Shark](https://github.com/kianeblackman/pizza-shark): A website and branding for a fake pizzaria called Pizza Shark, built using Vite, React and SCSS.
+
+- [Hobi](http://hobi.space/):  A community sharing platform for people to be able to share their skills and learn new things, built using React, Next.js, Tailwind, Auth0, MongoDB, Jest and Cypress.
+
+- [Portfolio Website V1](https://github.com/kianeblackman/portfolio_website): This project was built using Next.js and PostgreSQL. It allows users to search for and book travel accommodations.
+
+## 🛠 Currently Working On
+
+- [Pizza Shark](https://github.com/kianeblackman/pizza-shark): a website and branding for a fictional pizzeria, built with Vite, React, and SCSS.
+
+- [Portfolio Website V2](/): I'm currently working on a new version of my portfolio website, using cutting-edge technologies. Stay tuned for updates!
 
 ## 👨🏾‍💻 Tec Stack
 
