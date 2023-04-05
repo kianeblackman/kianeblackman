@@ -4,7 +4,9 @@
 
 ## 🚀 Projects
 
-- [Pizza Shark](https://github.com/kianeblackman/pizza-shark): A website and branding for a fake pizzaria called Pizza Shark, built using Vite, React and SCSS.
+- Pizza Shark: A website and branding for a fake pizzaria called Pizza Shark, built using Vite, React and SCSS.
+
+  View the project's [Github](https://github.com/kianeblackman/pizza-shark) and [Website](https://pizza-shark.netlify.app/).
 
 - [Hobi](http://hobi.space/):  A community sharing platform for people to be able to share their skills and learn new things, built using React, Next.js, Tailwind, Auth0, MongoDB, Jest and Cypress.
 
