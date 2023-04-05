@@ -8,15 +8,21 @@
 
   View the project's [Github](https://github.com/kianeblackman/pizza-shark) and [Website](https://pizza-shark.netlify.app/).
 
-- [Hobi](http://hobi.space/):  A community sharing platform for people to be able to share their skills and learn new things, built using React, Next.js, Tailwind, Auth0, MongoDB, Jest and Cypress.
+- Hobi:  A community sharing platform for people to be able to share their skills and learn new things, built using React, Next.js, Tailwind, Auth0, MongoDB, Jest and Cypress.
 
-- [Portfolio Website V1](https://github.com/kianeblackman/portfolio_website): This project was built using Next.js and PostgreSQL. It allows users to search for and book travel accommodations.
+  View the project's [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-zen-coders) and [Website](http://hobi.space/).
+
+- Portfolio Website V1: This project was built using Next.js and PostgreSQL. It allows users to search for and book travel accommodations.
+
+  View the project's [Github](https://github.com/kianeblackman/portfolio_website) and [Website](https://kianeblackman.com/).
 
 ## 🛠 Currently Working On
 
-- [Pizza Shark](https://github.com/kianeblackman/pizza-shark): a website and branding for a fictional pizzeria, built with Vite, React, and SCSS.
+- Pizza Shark: a website and branding for a fictional pizzeria, built with Vite, React, and SCSS.
 
-- [Portfolio Website V2](/): I'm currently working on a new version of my portfolio website, using cutting-edge technologies. Stay tuned for updates!
+  View the project's [Github](https://github.com/kianeblackman/pizza-shark) and [Website](https://pizza-shark.netlify.app/).
+
+- Portfolio Website V2: I'm currently working on a new version of my portfolio website, using cutting-edge technologies. Stay tuned for updates!
 
 ## 👨🏾‍💻 Tec Stack
 
