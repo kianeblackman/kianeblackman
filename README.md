@@ -4,6 +4,10 @@
 
 ## 🚀 Projects
 
+- ROAM: A website for ROAM, a collaborative anthology magazine, exploring the modern ways that people are engaging with the past. 
+
+  View the project's [Github](https://github.com/kianeblackman/ROAM_website) and [Website](https://roamfolk.com/).
+
 - Pizza Shark: A website and branding for a fake pizzaria called Pizza Shark, built using Vite, React and SCSS.
 
   View the project's [Github](https://github.com/kianeblackman/pizza-shark) and [Website](https://pizza-shark.netlify.app/).
