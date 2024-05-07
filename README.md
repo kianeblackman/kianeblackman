@@ -58,8 +58,9 @@
 ![node](https://img.shields.io/badge/nodejs-6BA163?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-2F2F2F?style=for-the-badge&logo=express&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-BC36FD?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-C03635?style=for-the-badge&logo=npm&logoColor=white)
+![wordpress](https://img.shields.io/badge/wordpress-2F2F2F?style=for-the-badge&logo=wordpress&logoColor=white)
 
+![npm](https://img.shields.io/badge/npm-C03635?style=for-the-badge&logo=npm&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-F16631?style=for-the-badge&logo=postman&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-48C9BA?style=for-the-badge&logo=netlify&logoColor=white)
 ![render](https://img.shields.io/badge/render-4451E8?style=for-the-badge&logo=render&logoColor=white)
