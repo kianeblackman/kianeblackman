@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kiane z
+# 👋 Hi there, I'm Kiane
 
 ### I'm a front-end developer, designer and all round a pretty creative guy. Welcome to my portfolio!
 
