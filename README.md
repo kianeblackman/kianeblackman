@@ -32,34 +32,27 @@ Please view my portfolo website [here](https://kianeblackman.com/).
 
 ### Languages
 
-![javascript](https://img.shields.io/badge/javascript-FEC11A?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/typescript-2D73BE?style=for-the-badge&logo=typescript&logoColor=white)
-![html](https://img.shields.io/badge/html-D94924?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-254DE2?style=for-the-badge&logo=css3&logoColor=white)
-![sql](https://img.shields.io/badge/sql-316289?style=for-the-badge&logo=postgresql&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-e8d44c?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
+![html](https://img.shields.io/badge/html-ae2c0a?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css-1090c6?style=for-the-badge&logo=css3&logoColor=white)
+![sql](https://img.shields.io/badge/sql-1c73ba?style=for-the-badge&logo=postgresql&logoColor=white)
+![php](https://img.shields.io/badge/php-8891bb?style=for-the-badge&logo=php&logoColor=white)
 
-### Creative
+### Tools
 
-![miro](https://img.shields.io/badge/miro-55536C?style=for-the-badge&logo=miro&logoColor=white)
-![figma](https://img.shields.io/badge/figma-04C47B?style=for-the-badge&logo=figma&logoColor=white)
-![photoshop](https://img.shields.io/badge/photoshop-24A5FE?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![indesign](https://img.shields.io/badge/indesign-F12E62?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![illustrator](https://img.shields.io/badge/illustrator-F49106?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-![premiere pro](https://img.shields.io/badge/premierepro-9190F3?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![after effects](https://img.shields.io/badge/aftereffects-6470F0?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
-### Other
-
-![react](https://img.shields.io/badge/react-56D0EE?style=for-the-badge&logo=react&logoColor=white)
+![react](https://img.shields.io/badge/react-232323?style=for-the-badge&logo=react&logoColor=white)
+![sveltekit](https://img.shields.io/badge/svelte-f93703?style=for-the-badge&logo=svelte&logoColor=white)
+![vite](https://img.shields.io/badge/vite-8f69fd?style=for-the-badge&logo=vite&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-2D2D2D?style=for-the-badge&logo=next.js&logoColor=white)
 ![tailwind css](https://img.shields.io/badge/tailwindcss-36BCFA?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![scss](https://img.shields.io/badge/scss-C16191?style=for-the-badge&logo=sass&logoColor=white)
-![node](https://img.shields.io/badge/nodejs-6BA163?style=for-the-badge&logo=node.js&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-6BA163?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-2F2F2F?style=for-the-badge&logo=express&logoColor=white)
-![vite](https://img.shields.io/badge/vite-BC36FD?style=for-the-badge&logo=vite&logoColor=white)
-![wordpress](https://img.shields.io/badge/wordpress-2F2F2F?style=for-the-badge&logo=wordpress&logoColor=white)
+![greensock](https://img.shields.io/badge/greensock-527125?style=for-the-badge&logo=greensock&logoColor=white)
 
+![wordpress](https://img.shields.io/badge/wordpress-2F2F2F?style=for-the-badge&logo=wordpress&logoColor=white)
+![elementor](https://img.shields.io/badge/elementor-741273?style=for-the-badge&logo=elementor&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-C03635?style=for-the-badge&logo=npm&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-F16631?style=for-the-badge&logo=postman&logoColor=white)
 ![netlify](https://img.shields.io/badge/netlify-48C9BA?style=for-the-badge&logo=netlify&logoColor=white)
@@ -67,6 +60,15 @@ Please view my portfolo website [here](https://kianeblackman.com/).
 ![jest](https://img.shields.io/badge/jest-BD3815?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-58CE9B?style=for-the-badge&logo=cypress&logoColor=white)
 ![testinglibrary](https://img.shields.io/badge/testinglibrary-F0709D?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+### Creative
+
+![figma](https://img.shields.io/badge/figma-04C47B?style=for-the-badge&logo=figma&logoColor=white)
+![photoshop](https://img.shields.io/badge/photoshop-24A5FE?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![indesign](https://img.shields.io/badge/indesign-F12E62?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![illustrator](https://img.shields.io/badge/illustrator-F49106?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![premiere pro](https://img.shields.io/badge/premierepro-9190F3?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![after effects](https://img.shields.io/badge/aftereffects-6470F0?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ## 💬 Feedback
 
