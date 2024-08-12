@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Kiane
 
-### I'm a front-end developer, designer and all round a pretty creative guy. Welcome to my portfolio!
+## I'm a curious and creative front-end developer with an eye for design!
+
+Please view my portfolo website [here](https://kianeblackman.com/).
 
 ## 🚀 Projects
 
@@ -25,8 +27,6 @@
 - Pizza Shark: a website and branding for a fictional pizzeria, built with Vite, React, and SCSS.
 
   View the project's [Github](https://github.com/kianeblackman/pizza-shark) and [Website](https://pizza-shark.netlify.app/).
-
-- Portfolio Website V2: I'm currently working on a new version of my portfolio website, using cutting-edge technologies. Stay tuned for updates!
 
 ## 👨🏾‍💻 Tec Stack
 
